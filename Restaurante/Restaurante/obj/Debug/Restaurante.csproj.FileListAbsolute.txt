@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+F:\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.AssemblyReference.cache
+F:\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+F:\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+F:\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+F:\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+F:\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+F:\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+E:\ \TUDO\ETEC\PA-DS\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+E:\ \TUDO\ETEC\PA-DS\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+E:\ \TUDO\ETEC\PA-DS\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+E:\ \TUDO\ETEC\PA-DS\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.AssemblyReference.cache
+E:\ \TUDO\ETEC\PA-DS\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.SuggestedBindingRedirects.cache
+E:\ \TUDO\ETEC\PA-DS\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+E:\ \TUDO\ETEC\PA-DS\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+E:\ \TUDO\ETEC\PA-DS\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
