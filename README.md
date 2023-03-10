@@ -9,7 +9,7 @@ Projeto de c# Criado durante o Curso Desenvolvimento de Sistemas na Etec Albert 
 <br>
 
 <p align="center">
-  <img style="border:2px solid black" alt="Imagem Principal" src="imgs/1.png" width="100%">
+  <img style="border:2px solid black" alt="Imagem Principal" src="3.png" width="100%">
 </p>
 
 ---
