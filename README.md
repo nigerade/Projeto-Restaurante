@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto em C# simulando um restaurante, onde o usuário lança o preço do Consumo, Couvert, Estacionamento e verifica se há preço promocional baseado no valor total. 
 
-Você pode ver o site neste link: [Projeto ILP-540](https://nigerade.github.io/Projeto-Site/)
+Para Ver e Testar esse Projeto você precisa baixar e rodar no Visual Studio.
 
 --- 
 
