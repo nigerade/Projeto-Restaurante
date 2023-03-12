@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Restaurante - C# </h1>
 
 <p align="center">
-Projeto de c# Criado durante o Curso Desenvolvimento de Sistemas na Etec Albert Einstein.
+Projeto de C# Criado durante o Curso Desenvolvimento de Sistemas na Etec Albert Einstein.
 </p>
 
 ---
